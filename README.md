@@ -1,4 +1,6 @@
-# Firmware & Software Updates
+# FaderCtrl Firmware & Software Updates
+
+Product support for FaderCtrl V1 (2017).
 
 ### Legend - 
 ###### `FIX:` A bug fix.  Relevant to users and developers.
