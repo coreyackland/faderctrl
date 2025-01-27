@@ -1,6 +1,7 @@
-# FaderCtrl Firmware & Software Updates
+# FaderCtrl - Firmware & Software Updates
 
-Product support for FaderCtrl V1 (2017).
+FaderCtrl V1 (2017) - Product support. <p>
+<strong> Refer to `MANUAL.md` for instructions. </strong>
 
 ### Legend - 
 ###### `FIX:` A bug fix.  Relevant to users and developers.
@@ -14,4 +15,4 @@ Product support for FaderCtrl V1 (2017).
 
 #### `1.0.0` -
 `NEW:` Added MIDI Learn - Enables the user to assign a control change [CC] from the device per fader. <p>
-`NEW:` Added Device Selector - Enables the user to select a midi device to update its control change parameters.
+`NEW:` Added Device Selector - Enables the user to select a midi device to update its control change parameters. <p>
