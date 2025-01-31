@@ -1,7 +1,7 @@
 # FaderCtrl - Firmware & Software Updates
 
 FaderCtrl V1 (2017) - Product support. <p>
-<strong> Refer to `MANUAL.md` for instructions. </strong>
+<strong> Refer to [MANUAL.md](MANUAL.md) for instructions. </strong>
 
 ### Legend - 
 ###### `FIX:` A bug fix.  Relevant to users and developers.
