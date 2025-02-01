@@ -13,6 +13,6 @@ FaderCtrl V1 (2017) - Product support. <p>
 > ###### `MINOR: x.1.x` Addresses functionality in a backward compatible manner.
 > ###### `PATCH: x.x.1` Addresses backward compatible bug fixes.
 
-#### `1.0.0` - <h6><em>A firmware update is required to maintain compatibility with below software functionality.</em><h6>
+#### `1.0.0` - <h6><em>A firmware update is required to enable compatibility with below software functionality.</em><h6>
 - `NEW:` Added MIDI Learn - Enables the user to assign a control change [CC] from the device per fader. <p>
 - `NEW:` Added Device Selector - Enables the user to select a midi device to update its control change parameters. <p>
