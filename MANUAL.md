@@ -9,14 +9,15 @@ Getting set up is simple and requires the following - <p>
   - TyTools is a suite of standalone utilities designed to streamline communication and firmware upgrades, eliminating the need to manually press the onboard button to enter boot mode.
   
 - FaderCtrl/Builds
-  - Download the latest updates via the <strong> [Builds/](https://github.com/coreyackland/faderctrl/tree/master/Builds) </strong>
-  - This contains both the latest `firmware` image and the `software` application. 
+  - Download this repository via <em>'Code > Download ZIP'</em> and direct to the <strong> [Builds/](https://github.com/coreyackland/faderctrl/tree/master/Builds) </strong> folder. See below:-
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/eb9a3eac-b6fa-464d-a204-ff462247a9bb" /> <p>
+  - This contains both the latest `firmware` image and the `software` application.
 
 ###### `Device Update:` <p>
 > <em><h5>[Note] Driver installation is not required for either macOS® or Windows® computers.</h5></em>
 
   - Using the <strong>TyUploader</strong> application, select the connected FaderCtrl from the device drop-down list.
-  - Initialising the <strong>Upload</strong> procedure, selected the latest firmware image and wait until the progress bar is complete.
+  - To initialise the upload procedure, selected the latest firmware image, select <strong>Upload</strong> wait until the progress bar is complete.
       - <em> If the uploader shows a red warning, please ignore.</em>
 
 ### Application Use: <h6>(Release 1.0.0)</h6> <p> 
