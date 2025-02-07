@@ -17,7 +17,7 @@ Getting set up is simple and requires the following - <p>
 > <em><h5>[Note] Driver installation is not required for either macOS® or Windows® computers.</h5></em>
 
   - Using the <strong>TyUploader</strong> application, select the connected FaderCtrl from the device drop-down list.
-  - To initialise the upload procedure, selected the latest firmware image, select <strong>Upload</strong> wait until the progress bar is complete.
+  - To initialise the upload procedure, selected the latest firmware image, select <strong>Upload</strong> and wait until the progress bar is complete.
       - <em> If the uploader shows a red warning, please ignore.</em>
 
 ### Application Use: <h6>(Release 1.0.0)</h6> <p> 
