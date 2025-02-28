@@ -11,7 +11,7 @@ Getting set up is simple and requires the following - <p>
   - TyTools is a suite of standalone utilities designed to streamline communication and firmware upgrades, eliminating the need to manually press the onboard button to enter boot mode. </p>
 
 - (2) Teensy Programmer
-  - Download [TeensyLoader](https://www.pjrc.com/teensy/loader.html) via `FaderCtrl/Software/...`</p>
+  - Download [TeensyLoader](https://www.pjrc.com/teensy/loader.html) for the latest versions. Alternative, `FaderCtrl/Software/...`</p>
   > <em><h5>[Note] Select the right operating system version.</h5></em>
 ![image](https://github.com/user-attachments/assets/62e7d813-8579-4267-801d-fb8bd8ed2b95)
 ![image](https://github.com/user-attachments/assets/1805fb95-5848-43e5-baf9-c6d3a486c5cd)
