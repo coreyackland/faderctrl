@@ -21,8 +21,9 @@ Getting set up is simple and requires the following - <p>
   
 - `FaderCtrl/Builds`
   - Download this repository via <em>'Code > Download ZIP'</em> and direct to the <strong> [Builds/](https://github.com/coreyackland/faderctrl/tree/master/Builds) </strong> folder. See below:-
+    - This contains both the latest `firmware` image and the `software` application.
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/eb9a3eac-b6fa-464d-a204-ff462247a9bb" /> <p>
-  - This contains both the latest `firmware` image and the `software` application.
+  
 
 ###### `Device Update:` <p>
 > <em><h5>[Note] Driver installation is not required for either macOS® or Windows® computers.</h5></em>
