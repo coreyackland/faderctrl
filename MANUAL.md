@@ -31,7 +31,7 @@ Getting set up is simple and requires the following - <p>
     - Initiate the upload procedure by selecting the latest firmware image then select <strong>Upload</strong> and wait until the progress bar is complete.
     - <em> If the uploader shows a red warning, please ignore.</em>
 
-  - Using the <strong>(2) TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the hex file located in `../Builds/FaderCtrl.hex`
+  - Using the <strong>(2) TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the latest hex file located in `../Builds/FaderCtrl.hex`
     - Initiate the upload procedure by activating the onboard MCU momentary push button. 
 > <em><h5>[Note] For access this, please remove one side panel of the enclosure.</h5></em>
 ![image](https://github.com/user-attachments/assets/dd780f82-f5ca-457b-ad2f-be4752d10659)
