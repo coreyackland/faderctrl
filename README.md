@@ -17,9 +17,9 @@ FaderCtrl V1 (2017) - Product support. <p>
 <h6><em>A firmware update is required to ensure compatibility with the software functionality listed below.</em></h6>
 
 #### `1.0.1` -
-- `SYS:` SysEx Handler - improved the bi-directional communication between hardware and software interface.  
-- `FIX:` MIDI Learn - resolved duplicate channels movements if they had the same CC number assignment (i.e., zero).  
-- `FIX:` Device Selector - limited interaction with if no device has been selected. 
+- `FIX:` Device Selector - Restricted interaction when no device is selected.
+- `FIX:` MIDI Learn - Resolved duplicate channel movements when faders share the same CC number (e.g., zero).
+- `SYS:` SysEx Handler - Enhanced bi-directional communication between the hardware and software interface.
 
 #### `1.0.0` -
 - `NEW:` MIDI Learn - Enables the user to assign a control change [CC] from the device per fader.
