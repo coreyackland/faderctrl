@@ -19,8 +19,8 @@ Getting set up is simple and requires the following - <p>
 
 ## <h6></h6> <p>
   
-- `FaderCtrl/Builds`
-  - Download this repository via <em>'Code > Download ZIP'</em> and direct to the <strong> [Builds/](https://github.com/coreyackland/faderctrl/tree/master/Builds) </strong> folder. See below:-
+- `FaderCtrl/Releases`
+  - Download this repository via <em>'Code > Download ZIP'</em> and direct to the <strong> [Releases/](https://github.com/coreyackland/faderctrl/tree/master/Releases) </strong> folder. See below:-
     - This contains both the latest `firmware` image and the `software` application.
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/eb9a3eac-b6fa-464d-a204-ff462247a9bb" /> <p>
   
@@ -32,7 +32,7 @@ Getting set up is simple and requires the following - <p>
     - Initiate the upload procedure by selecting the latest firmware image then select <strong>Upload</strong> and wait until the progress bar is complete.
     - <em> If the uploader shows a red warning, please ignore.</em>
 
-  - Using the <strong>(2) TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the latest hex file located in `../Builds/FaderCtrl.hex`
+  - Using the <strong>(2) TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the latest hex file located in `../Release/FaderCtrl.hex`
     - Initiate the upload procedure by activating the onboard MCU momentary push button. 
 > <em><h5>[Note] For access, one side panel of the enclosure must be removed. The controller plate can slide out for ease of access.</h5></em>
 ![image](https://github.com/user-attachments/assets/dd780f82-f5ca-457b-ad2f-be4752d10659)
