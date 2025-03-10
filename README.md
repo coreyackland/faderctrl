@@ -16,6 +16,9 @@ FaderCtrl V1 (2017) - Product support. <p>
 
 <h6><em>A firmware update is required to ensure compatibility with the software functionality listed below.</em></h6>
 
+#### `1.0.2` -
+- `SYS:` MIDI Exclusions - Ignored MIDI Active Sense (0xFE) and MIDI Clock (0xF8).
+
 #### `1.0.1` -
 - `FIX:` Device Selector - Restricted interaction when no device is selected.
 - `FIX:` MIDI Learn - Resolved duplicate channel movements when faders share the same CC number (e.g., zero).
