@@ -11,6 +11,7 @@ FaderCtrl V1 (2017) - Product support. <p>
 | `NEW:`   | A new feature. Relevant to users and developers.            | `MINOR`        | Addresses backward-compatible functionality. |
 | `SYS:`   | A system-level change. Usually only relevant to developers. | `PATCH`        | Addresses backward-compatible bug fixes.     |
 
+---
 <em><h6>Legend: [`Update`] : Firmware [`FW`]  | Software [`SW`] </h6></em>
 
 ### Releases
