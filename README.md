@@ -12,7 +12,7 @@ FaderCtrl V1 (2017) - Product support. <p>
 | `SYS`   | A system-level change. Usually only relevant to developers. | `PATCH`        | Addresses backward-compatible bug fixes.     |
 
 ---
-<em><h6>Legend: [`Update`] : Firmware [`FW`]  | Software [`SW`] </h6></em>
+<em><h6>Update: [`Version`] : Firmware [`FW`]  | Software [`SW`] </h6></em>
 
 ### Releases
 
