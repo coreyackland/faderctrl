@@ -3,26 +3,26 @@
 FaderCtrl V1 (2017) - Product support. <p>
 <strong> Refer to [MANUAL.md](MANUAL.md) for instructions. </strong>
 
-### Versioning Information
+### Information
 
-| **Legend** | **Description**                           | **Semantic** | **Description** |
+| **Type** | **Description**                           | **Versioning** | **Description** |
 |------------|-------------------------------------------|-------------------------|-----------------|
 | `FIX:`     | A bug fix. Relevant to users and developers. | **MAJOR**            | Addresses incompatible API changes. |
 | `NEW:`     | A new feature. Relevant to users and developers. | **MINOR**           | Addresses functionality in a backward-compatible manner. |
 | `SYS:`     | A system-level change. Usually only relevant to developers. | **PATCH**   | Addresses backward-compatible bug fixes. |
 
+> <em><h6>[Update Required] - `FW` = Firmware | `SW` = Software </h6></em>
+
 ### Releases
 
-*Firmware update required to ensure compatibility with the software functionality listed below.*
-
-#### `v1.0.2`
+> #### `v1.0.2` - `SW`
 - `SYS:` MIDI Exclusions - Ignored MIDI Active Sense (0xFE) and MIDI Clock (0xF8).
 
-#### `v1.0.1`
+> #### `v1.0.1` - `FW` | `SW`
 - `FIX:` Device Selector - Restricted interaction when no device is selected.
 - `FIX:` MIDI Learn - Resolved duplicate channel movements when faders share the same CC number (e.g., zero).
 - `SYS:` SysEx Handler - Enhanced bi-directional communication between the hardware and software interface.
 
-#### `v1.0.0`
+> #### `v1.0.0` - `FW` | `SW`
 - `NEW:` MIDI Learn - Enables the user to assign a control change [CC] from the device per fader.
 - `NEW:` Device Selector - Enables the user to select a MIDI device to update its control change parameters.
