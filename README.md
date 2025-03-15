@@ -25,7 +25,7 @@ FaderCtrl V1 (2017) - Product support. <p>
 >
 > ##### `v1.0.0` - `FW` | `SW`
 > - `NEW` **MIDI Learn** - Enables the user to assign a control change [CC] from the device per fader.
-> - `NEW` **Device Selector** - Enables the user to target the FaderCtrl device to update its control change parameters.
+> - `NEW` **Device Selector** - Enables the user to target a FaderCtrl device to update its control change parameters.
 
 ### Roadmap
 
