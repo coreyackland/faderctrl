@@ -15,17 +15,17 @@ FaderCtrl V1 (2017) - Product support. <p>
 ### Releases
 <em><h6>[`Version`] - Firmware [`FW`]  | Software [`SW`]</h6></em>
 
-> #### `v1.0.2` - `SW`
-> - `SYS` MIDI Exclusions - Ignored MIDI Active Sense (0xFE) and MIDI Clock (0xF8).
+> ##### `v1.0.2` - `SW`
+> - `SYS` **MIDI Exclusions** - Ignored MIDI Active Sense (0xFE) and MIDI Clock (0xF8).
 >
-> #### `v1.0.1` - `FW` | `SW`
-> - `FIX` Device Selector - Restricted interaction when no device is selected.
-> - `FIX` MIDI Learn - Resolved duplicate channel movements when faders share the same CC number (e.g., zero).
-> - `SYS` SysEx Handler - Enhanced bi-directional communication between the hardware and software interface.
+> ##### `v1.0.1` - `FW` | `SW`
+> - `FIX` **MIDI Learn** - Resolved duplicate channel movements when faders share the same CC number (e.g., zero).
+> - `FIX` **Device Selector** - Restricted user interface functionality when no device has been selected.
+> - `SYS` **SysEx Handler** - Enhanced bi-directional communication between the hardware and software interface.
 >
-> #### `v1.0.0` - `FW` | `SW`
-> - `NEW` MIDI Learn - Enables the user to assign a control change [CC] from the device per fader.
-> - `NEW` Device Selector - Enables the user to select a MIDI device to update its control change parameters.
+> ##### `v1.0.0` - `FW` | `SW`
+> - `NEW` **MIDI Learn** - Enables the user to assign a control change [CC] from the device per fader.
+> - `NEW` **Device Selector** - Enables the user to target the FaderCtrl device to update its control change parameters.
 
 ### Roadmap
 
