@@ -12,9 +12,8 @@ FaderCtrl V1 (2017) - Product support. <p>
 | `SYS`   | A system-level change. Usually only relevant to developers. | `PATCH`        | Addresses backward-compatible bug fixes.     |
 
 ---
-<em><h6>Update: [`Version`] : Firmware [`FW`]  | Software [`SW`] </h6></em>
-
 ### Releases
+<em><h6>[`Version`] - Firmware [`FW`]  | Software [`SW`]</h6></em>
 
 > #### `v1.0.2` - `SW`
 > - `SYS` MIDI Exclusions - Ignored MIDI Active Sense (0xFE) and MIDI Clock (0xF8).
@@ -27,3 +26,7 @@ FaderCtrl V1 (2017) - Product support. <p>
 > #### `v1.0.0` - `FW` | `SW`
 > - `NEW` MIDI Learn - Enables the user to assign a control change [CC] from the device per fader.
 > - `NEW` Device Selector - Enables the user to select a MIDI device to update its control change parameters.
+
+### Roadmap
+
+<em><h6>Development: A description of desirable or currently in-progress features. </h6></em>
