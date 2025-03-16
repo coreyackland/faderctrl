@@ -3,7 +3,7 @@
 FaderCtrl V1 (2017) - Product support. <p>
 <strong> Refer to [MANUAL.md](MANUAL.md) for instructions. </strong>
 
-### Information
+### [Releases](https://github.com/coreyackland/faderctrl/releases) </strong>
 
 | **Type** | **Description**                                             | **Versioning** | **Description**                              |
 |----------|-------------------------------------------------------------|----------------|----------------------------------------------|
@@ -12,20 +12,6 @@ FaderCtrl V1 (2017) - Product support. <p>
 | `SYS`   | A system-level change. Usually only relevant to developers. | `PATCH`        | Addresses backward-compatible bug fixes.     |
 
 ---
-### Releases
-<em><h6>[`Version`] - Firmware [`FW`]  | Software [`SW`]</h6></em>
-
-> ##### `v1.0.2` - `SW`
-> - `SYS` **MIDI Messages** - Ignored MIDI Active Sense (0xFE) and MIDI Clock (0xF8).
->
-> ##### `v1.0.1` - `FW` | `SW`
-> - `FIX` **MIDI Learn** - Resolved duplicate channel movements when faders share the same CC number (e.g., zero).
-> - `FIX` **Device Selector** - Restricted user interface functionality when no device has been selected.
-> - `SYS` **MIDI Messages** - Enhanced System Exclusive (SysEx) communication between the hardware and software interface.
->
-> ##### `v1.0.0` - `FW` | `SW`
-> - `NEW` **MIDI Learn** - Enables the user to assign a control change [CC] from hardware.
-> - `NEW` **Device Selector** - Enables the user to target a FaderCtrl device to update its control change parameters.
 
 ### Roadmap
 
