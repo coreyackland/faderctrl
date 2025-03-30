@@ -5,7 +5,7 @@ FaderCtrl V1 (2017) - Product support. <p>
 
 <strong> Refer to [Releases](https://github.com/coreyackland/faderctrl/releases) for the release history. </strong>
 
-### [Releases](https://github.com/coreyackland/faderctrl/releases) </strong>
+### Release Structure </strong>
 
 | **Type** | **Description**                                             | **Versioning** | **Description**                              |
 |----------|-------------------------------------------------------------|----------------|----------------------------------------------|
