@@ -16,7 +16,8 @@ Getting set up is simple and requires the following - <p>
 - `FaderCtrl/Releases`
   - Head to <strong> [Releases](https://github.com/coreyackland/faderctrl/releases) </strong> to download the latest release. See below:-
     - Each release will contain a package with the latest downloads.
-<img width="919" alt="image" src="https://github.com/user-attachments/assets/859eb54a-3f5c-4b15-b52e-f2fc8dfad040" /><p>
+<img width="1225" alt="image" src="https://github.com/user-attachments/assets/a275ab7f-d511-450f-a9dd-0a7beeda829a" />
+
   
 
 ###### `Device Update:` <p>
