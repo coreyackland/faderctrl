@@ -23,7 +23,7 @@ Getting set up is simple and requires the following - <p>
 ###### `Device Update:` <p>
 > <em><h5>[Note] Driver installation is not required for either macOS® or Windows® computers.</h5></em>
 
-  - Using the <strong>(2) TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the latest hex file located in `../Release/FaderCtrl.hex`
+  - Using the <strong>TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the latest hex file located in `../Release/FaderCtrl.hex`
     - Initiate the upload procedure by activating the onboard MCU momentary push button. 
 > <em><h5>[Note] For access, one side panel of the enclosure must be removed. The controller plate can slide out for ease of access.</h5></em>
 ![image](https://github.com/user-attachments/assets/dd780f82-f5ca-457b-ad2f-be4752d10659)
