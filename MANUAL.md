@@ -8,11 +8,7 @@ NOTE: The below procedure is NOT final.
 
 ## <h6>(Download either)</h6> <p>
 
-- (1) TyTools/TyUploader
-  - Download [TyTools](https://github.com/Koromix/tytools/releases) via <strong> Releases/Assets </strong> and select your operating system.
-  - TyTools is a suite of standalone utilities designed to streamline communication and firmware upgrades, eliminating the need to manually press the onboard button to enter boot mode. </p>
-
-- (2) Teensy Programmer
+- (1) Teensy Programmer
   - Download [TeensyLoader](https://www.pjrc.com/teensy/loader.html) for the latest versions. Alternative, `FaderCtrl/Software/...`</p>
   > <em><h5>[Note] Select the right operating system version.</h5></em>
 ![image](https://github.com/user-attachments/assets/62e7d813-8579-4267-801d-fb8bd8ed2b95)
@@ -29,10 +25,6 @@ NOTE: The below procedure is NOT final.
 
 ###### `Device Update:` <p>
 > <em><h5>[Note] Driver installation is not required for either macOS® or Windows® computers.</h5></em>
-
-  - Using the <strong>(1) TyUploader</strong> application, select the connected FaderCtrl from the device drop-down list.
-    - Initiate the upload procedure by selecting the latest firmware image then select <strong>Upload</strong> and wait until the progress bar is complete.
-    - <em> If the uploader shows a red warning, please ignore.</em>
 
   - Using the <strong>(2) TeensyLoader</strong> application, go to <strong>File>Open Hex File</strong> to select the latest hex file located in `../Release/FaderCtrl.hex`
     - Initiate the upload procedure by activating the onboard MCU momentary push button. 
