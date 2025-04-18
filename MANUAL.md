@@ -28,7 +28,9 @@ Getting set up is simple and requires the following - <p>
 > <em><h5>[Note] For access, one side panel of the enclosure must be removed. The controller plate can slide out for ease of access.</h5></em>
 ![image](https://github.com/user-attachments/assets/dd780f82-f5ca-457b-ad2f-be4752d10659)
 
-### Application Use: <h6>(Release 1.0.0)</h6> <p> 
+### Application Use: <h6>(Release 1.0.2)</h6> <p> 
+2025-04 - CURRENTLY ONLY WORKING ON macOS®
+
 > <em><h5>[Note] macOS® users may be required to right-click 'Open' on initial startup.</h5></em>
 
 <em><h5>[Required] Select the connected <strong>FaderCtrl</strong> from the device drop-down list. </h5></em>
