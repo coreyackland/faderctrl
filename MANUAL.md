@@ -4,9 +4,7 @@
 ###### `Basic Requirements:` <p>
 Getting set up is simple and requires the following - <p>
 
-## <h6>(The below procedure is NOT final. )</h6> <p>
-
-- (1) Teensy Programmer
+- Teensy Programmer
   - Download [TeensyLoader](https://www.pjrc.com/teensy/loader.html) for the latest versions. Alternative, `FaderCtrl/Software/...`</p>
   > <em><h5>[Note] Select the right operating system version.</h5></em>
 ![image](https://github.com/user-attachments/assets/62e7d813-8579-4267-801d-fb8bd8ed2b95)
