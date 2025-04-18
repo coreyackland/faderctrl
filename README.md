@@ -3,6 +3,8 @@
 FaderCtrl V1 (2017) - Product support. <p>
 Refer to <strong>[Manual](MANUAL.md)</strong> for instructions and <strong>[Releases](https://github.com/coreyackland/faderctrl/releases)</strong> for the release history. 
 
+[![FaderCtrl Release](https://img.shields.io/github/v/release/coreyackland/faderctrl?label=Latest%20Release&color=grey&labelColor=red&logo=github&logoColor=white&style=for-the-badge)](https://github.com/coreyackland/faderctrl/releases/latest)
+
 ### Release Structure </strong>
 
 | **Type** | **Description**                                             | **Versioning** | **Description**                              |
@@ -12,8 +14,6 @@ Refer to <strong>[Manual](MANUAL.md)</strong> for instructions and <strong>[Rele
 | `SYS`   | A system-level change. Usually only relevant to developers. | `PATCH`        | Addresses backward-compatible bug fixes.     |
 
 ---
-
-[![FaderCtrl Release](https://img.shields.io/github/v/release/coreyackland/faderctrl?label=Latest%20Release&color=grey&labelColor=red&logo=github&logoColor=white&style=for-the-badge)](https://github.com/coreyackland/faderctrl/releases/latest)
 
 ### Roadmap
 
