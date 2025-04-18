@@ -23,8 +23,8 @@ NOTE: The below procedure is NOT final.
   
 - `FaderCtrl/Releases`
   - Head to <strong> [Releases](https://github.com/coreyackland/faderctrl/releases) </strong> to download the latest release. See below:-
-    - This contains both the latest `firmware` image and the `software` application.
-<img width="907" alt="image" src="https://github.com/user-attachments/assets/eb9a3eac-b6fa-464d-a204-ff462247a9bb" /> <p>
+    - Each release will contain a package with the latest downloads.
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/859eb54a-3f5c-4b15-b52e-f2fc8dfad040" /><p>
   
 
 ###### `Device Update:` <p>
