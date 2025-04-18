@@ -4,6 +4,8 @@
 ###### `Basic Requirements:` <p>
 Getting set up is simple and requires the following - <p>
 
+NOTE: The below procedure is NOT final. 
+
 ## <h6>(Download either)</h6> <p>
 
 - (1) TyTools/TyUploader
