@@ -42,9 +42,7 @@ NOTE: The below procedure is NOT final.
 ### Application Use: <h6>(Release 1.0.0)</h6> <p> 
 > <em><h5>[Note] macOS® users may be required to right-click 'Open' on initial startup.</h5></em>
 
-
-
-  - Select the connected <strong>FaderCtrl</strong> from the device drop-down list.
+<em><h5>[Required] Select the connected <strong>FaderCtrl</strong> from the device drop-down list. </h5></em>
   - Assign a <strong>MIDI CC</strong> for each fader by moving the corresponding application sliders. Far left slider correlates to far left hardare fader. 
   - Select `Learn` to enable the assignment of a <strong>MIDI CC</strong> via the hardware fader.
   - To store these values on device, select `Store`.
