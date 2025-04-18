@@ -1,9 +1,7 @@
 # FaderCtrl - Firmware & Software Updates
 
 FaderCtrl V1 (2017) - Product support. <p>
-<strong> Refer to [Manual](MANUAL.md) for instructions. </strong>
-
-<strong> Refer to [Releases](https://github.com/coreyackland/faderctrl/releases) for the release history. </strong>
+Refer to <strong>[Manual](MANUAL.md)</strong> for instructions and <strong>[Releases](https://github.com/coreyackland/faderctrl/releases)</strong> for the release history. 
 
 ### Release Structure </strong>
 
