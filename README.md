@@ -15,6 +15,9 @@ FaderCtrl V1 (2017) - Product support. <p>
 
 ---
 
+[![FaderCtrl Release](https://img.shields.io/github/v/release/coreyackland/faderctrl?label=Latest%20Release&color=orange&labelColor=lightGrey&logo=github&logoColor=white&style=for-the-badge)](https://github.com/coreyackland/faderctrl/releases/latest)
+
+
 ### Roadmap
 
 <em><h6>Development: A description of desirable or currently in-progress features. </h6></em>
