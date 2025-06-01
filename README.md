@@ -6,7 +6,7 @@
 
 > [!TIP]
 > ### Release(s)
-> The below table describes the release structure.[^1]
+> <em>The below table describes the release structure.</em>[^1]
 >| **Type** | **Description**                                             | **Version**    | **Description**                              |
 >|----------|-------------------------------------------------------------|----------------|----------------------------------------------|
 >| `FIX`    | A bug fix. Relevant to users and developers.                | `MAJOR`        | Addresses incompatible API changes.          |
@@ -17,7 +17,7 @@
 
 > [!IMPORTANT]
 > ### Roadmap
-> <em><h5>Development: A description of desirable or currently in-progress features. [^2]</h5></em>
+> <em>Development: A description of desirable or currently in-progress features.</em>[^2]
 > - [x] 2025-05 - Self-updater
 
 [^1]: Release(s).
