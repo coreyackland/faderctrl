@@ -1,22 +1,24 @@
-# FaderCtrl - Firmware & Software Updates
+# FaderCtrl - Product Support
 
-FaderCtrl V1 (2017) - Product support. <p>
-Refer to <strong>[Manual](MANUAL.md)</strong> for instructions and <strong>[Releases](https://github.com/coreyackland/faderctrl/releases)</strong> for the release history. 
+> [!NOTE]
+> Refer to <strong>[Manual](MANUAL.md)</strong> for instructions and <strong>[Releases](https://github.com/coreyackland/faderctrl/releases)</strong> for the release history. 
+---
 
-### Release(s)
-[![FaderCtrl Release](https://img.shields.io/github/v/release/coreyackland/faderctrl?label=Latest%20Release&color=grey&labelColor=red&logo=github&logoColor=white&style=for-the-badge)](https://github.com/coreyackland/faderctrl/releases/latest)
-
+> [!TIP]
+> ### Release(s)
+> The below table describes the release structure.[^1]
 >| **Type** | **Description**                                             | **Version**    | **Description**                              |
 >|----------|-------------------------------------------------------------|----------------|----------------------------------------------|
 >| `FIX`    | A bug fix. Relevant to users and developers.                | `MAJOR`        | Addresses incompatible API changes.          |
 >| `NEW`    | A new feature. Relevant to users and developers.            | `MINOR`        | Addresses backward-compatible functionality. |
 >| `SYS`    | A system-level change. Usually only relevant to developers. | `PATCH`        | Addresses backward-compatible bug fixes.     |
->
-> <em><h5>Note, the above describes the release structure. </h5></em>
-
+[![FaderCtrl Release](https://img.shields.io/github/v/release/coreyackland/faderctrl?label=Latest%20Release&color=grey&labelColor=red&logo=github&logoColor=white&style=for-the-badge)](https://github.com/coreyackland/faderctrl/releases/latest)
 ---
 
-### Roadmap
+> [!IMPORTANT]
+> ### Roadmap
+> <em><h5>Development: A description of desirable or currently in-progress features. [^2]</h5></em>
+> - [x] asdf
 
-<em><h5>Development: A description of desirable or currently in-progress features. </h5></em>
-<h6>< ... ></h6>
+[^1]: Release(s).
+[^2]: Feature Roadmap.
