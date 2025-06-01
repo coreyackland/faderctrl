@@ -18,7 +18,7 @@
 > [!IMPORTANT]
 > ### Roadmap
 > <em><h5>Development: A description of desirable or currently in-progress features. [^2]</h5></em>
-> - [x] asdf
+> - [x] 2025-05 - Self-updater
 
 [^1]: Release(s).
 [^2]: Feature Roadmap.
